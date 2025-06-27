@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuzammilAzeem
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Python, Excel
+- 🌱 SQL, Excel, Power BI, Tablue
 - 💞️ I’m looking to collaborate on any project related to data analytics
 - 📫 How to reach me azeemmuzammil786@gmail.com
 - 😄 Pronouns: ...
