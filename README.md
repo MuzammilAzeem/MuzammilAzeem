@@ -3,6 +3,7 @@
 - 🌱 SQL, Excel, Power BI, Tablue
 - 💞️ I’m looking to collaborate on any project related to data analytics
 - 📫 How to reach me azeemmuzammil786@gmail.com
+- LinkdIN - https://www.linkedin.com/in/muzammil-azeem/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
